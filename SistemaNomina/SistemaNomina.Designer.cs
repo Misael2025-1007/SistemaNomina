@@ -1,6 +1,6 @@
 ﻿namespace SistemaNomina
 {
-    partial class Form1
+    partial class SistemaNomina
     {
         private System.ComponentModel.IContainer components = null;
 

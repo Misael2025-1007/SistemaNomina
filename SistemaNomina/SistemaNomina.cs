@@ -5,12 +5,12 @@ using SistemaNomina.Servicios;
 
 namespace SistemaNomina
 {
-    public partial class Form1 : Form
+    public partial class SistemaNomina : Form
     {
         private NominaService nominaService = new NominaService();
         private int indiceSeleccionado = -1; // -1 = ninguno seleccionado
 
-        public Form1()
+        public SistemaNomina()
         {
             InitializeComponent();
         }
